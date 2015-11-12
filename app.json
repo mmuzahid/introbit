@@ -1,0 +1,7 @@
+{
+  "name": "introbit",
+  "description": "introbit - A Node.js",
+  "repository": "https://github.com/mmuzahid/introbit",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}

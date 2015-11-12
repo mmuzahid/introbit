@@ -1,0 +1,38 @@
+
+{
+  "name": "introbit",
+  "version": "1.0.0",
+  "description": "introbit - A node.js application",
+  "main": "introbit.js",
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "mmuzahid",
+  "license": "MIT",
+  "dependencies": {
+     "ejs": "~1.0.0",
+    "express": "~4.9.8"
+  },
+  "engines": {
+    "node": "0.10.x",
+	"npm": "2.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmuzahid/introbit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmuzahid/introbit/issues"
+  },
+  "homepage": "https://github.com/mmuzahid/introbit#readme",
+  "engines": {
+    "node": "4.1.1"
+  },
+  "scripts": {
+	"start": "node introbit.js"
+  }
+}
+
+
